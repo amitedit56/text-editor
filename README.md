@@ -28,13 +28,13 @@ This project demonstrates GUI development, file handling, and basic text editing
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/amit-text-editor.git
+git clone https://github.com/your-username/text-editor.git
 ```
 
 2. Navigate to project folder:
 
 ```bash
-cd amit-text-editor
+cd text-editor
 ```
 
 3. Run the application:
@@ -47,7 +47,9 @@ python main.py
 
 ## 📸 Screenshot
 
-(Add a screenshot in `assets/` folder and update path below)
+<p align="center">
+  <img src="assets/text_editior_screenshot.png" width="800"/>
+</p>
 
 ```
 ![App Screenshot](assets/screenshot.png)
@@ -63,7 +65,10 @@ amit-text-editor/
 ├── main.py
 ├── README.md
 ├── requirements.txt
-├── assets/
+├── .gitignore
+├── .gitignore │
+├── assets/ │
+    └── text_editor_screenshot.png
 ```
 
 ---
