@@ -11,6 +11,7 @@ This project demonstrates GUI development, file handling, and basic text editing
 * ✂️ Cut, Copy, Paste functionality
 * ↩️ Undo / Redo support
 * 🔍 Zoom In / Zoom Out
+* 📊 Word and Character Count (Live)
 * 🖥️ Clean and minimal UI
 
 ---
@@ -62,9 +63,7 @@ amit-text-editor/
 ├── main.py
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 ├── assets/
-└── docs/
 ```
 
 ---
